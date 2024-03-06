@@ -5,7 +5,7 @@ The dataset provides a comprehensive record of flight cancellations and delays i
 States, covering the years 2019 to 2023, with over 1.04m entries. Each entry captures various 
 attributes related to flight details, reasons for delays, and associated factors.
 Link to dataset csv file (https://drive.google.com/file/d/16n1yXHEQjFdtwy_m2jXk05-vEkTlTweT/view?usp=sharing)
-Here are the questions related to the data I seek to answer:
+Here are the questions related to the dataset I seek to answer:
 
 **Handling missing values**
 Q1. Create three variables namely Flight_Num, Flight_Cat and Flight_Full to represent 
